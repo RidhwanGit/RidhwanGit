@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi 👋, I'm Ridhwan Gani
 
-<!--
-**RidhwanGit/RidhwanGit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 CS Student who loves coding, building web applications, and solving problems.  
+💡 Currently learning: Machine Learning, Artificial Intelligence, Advanced Algorithms 
+🔒 Interested in secure web apps & system design.  
+⚡ Fun fact: My best problem-solving ideas come when I’m away from the computer 💡
 
-Here are some ideas to get you started:
+📫 Reach me at: ridhwan.gani@gmail.com  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 Tech Stack  
+- **Languages:** C, C++, Python, Java  
+- **Web:** HTML, CSS, JavaScript, Laravel, React, Django, Flask  
+- **Databases:** MySQL, MongoDB  
+
+---
+✨ Always curious, always building!
